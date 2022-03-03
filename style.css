@@ -40,6 +40,7 @@ body {
     color: #fff;
     line-height: 110px;
     float: left;
+    text-shadow: 0px 0px 3px rgb(0, 174, 255);
 }
 .right-col {
     float: right;
@@ -53,6 +54,7 @@ body {
     color: #5f5f5f;
     font-weight: 400;
     margin-right: 15px;
+    text-shadow:0px 0px 1px red;
 }
 #icon img {
     width: 880px;
